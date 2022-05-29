@@ -15,3 +15,4 @@ How to use:
   - yarn 
 - Start Dev Server
   - yarn dev
+- Create your *.env* file. You can use the *.env.example*
